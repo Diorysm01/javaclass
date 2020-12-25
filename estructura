@@ -1,0 +1,17 @@
+class NombreClase{
+    //Declarar variables de instancia
+    tipo var1;
+    tipo var2;
+    //..
+
+    //Declarar métodos
+
+    tipo metodo1(parámetros){
+        //Cuerpo del método
+    }
+
+    tipo metodo2(parámetros){
+        //Cuerpo del método
+    }
+
+}
